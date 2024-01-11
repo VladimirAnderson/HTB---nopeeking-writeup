@@ -43,4 +43,4 @@ HTB - nopeeking writeup
 ![massives](https://github.com/VladimirAnderson/HTB---nopeeking-writeup/assets/57271893/92b42f49-5c30-48c6-902e-0fc2a6f0a195)
 
 Исходя из полученных данных, пишем декриптор, кстати, операция шифрования находится в функции  process_handling; она в принципе и единственная в этом бинаре, которая как-то шифрует  данные, поэтому даже думать по поводу алгоритма шифрования программы и не надо)
-Собсна, декриптор-с : )
+Собсна, декриптор-с : ) https://github.com/VladimirAnderson/HTB---nopeeking-writeup/blob/main/flag.py
