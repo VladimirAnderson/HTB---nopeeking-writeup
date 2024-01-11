@@ -22,6 +22,7 @@ HTB - nopeeking writeup
 
 В данной функции происходит чтение определенных байтов из памяти отлаживаемого процесса и, исходя из полученных байтов, производится то или иное действие.
 Чтение байтов производится из кода функций, в которых происходит проверка части флага - check1 and check2:
+
 ![0f0b](https://github.com/VladimirAnderson/HTB---nopeeking-writeup/assets/57271893/9194d947-4fd2-471e-874e-1f2008c047dc)
 ![0f0bf](https://github.com/VladimirAnderson/HTB---nopeeking-writeup/assets/57271893/75fd876b-d370-4f8f-aa39-8aa837218b3f)
 
